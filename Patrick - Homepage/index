@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+
+
+
+.titleDiv {
+  background-color: #1E1D2C;
+  font: 25px Calibri, sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+
+}
+</style>
+</head>
+<body>
+
+
+<div class="titleDiv">
+  <h2>Boomerang</h2>
+  <p>This is some text in a div element.</p>
+</div>
+
+
+
+<h1>The background-color Property</h1>
+
+<p>The background color can be specified with a color name.</p>
+
+</body>
+</html>
