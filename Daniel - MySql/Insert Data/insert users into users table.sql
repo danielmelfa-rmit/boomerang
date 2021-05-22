@@ -1,0 +1,2 @@
+insert into boomerangdb.users (email,lastName,firstName,street,suburb,state,postCode,userStatus,userType)
+values ('jill@potato.com','Jillian','Storm','68 St Kilda Road','St Kilda','VIC','3001','Active','Renter')

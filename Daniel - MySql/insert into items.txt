@@ -1,2 +1,0 @@
-insert into boomerangdb.items (itemName,itemDescription,itemPrice,itemStatus,itemDateAdded,itemImagePath,ownerUserId)
-values ('Petrol Pressure Washer','50cc Ryoby petrol washer','20.00','Rented',20210518,Null,1)
